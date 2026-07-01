@@ -1,8 +1,13 @@
 # Forecasting Literacy Development in Bangladesh: A Comparative Study of Machine Learning and Hybrid Approaches
 
+## 👨‍💻 Authors
+**Mohammed Abdul Al Arafat Tanzin** · **Md Jisan Mashrafi** · **Muhammad Iqbal Hossain**
+
+*Department of Computer Science and Engineering, BRAC University, Dhaka, Bangladesh*
+
 ## 📄 Published Paper
-The research paper has been published in IEEE Access and is available at:
-🔗 https://ieeexplore.ieee.org/abstract/document/11014044/
+The research paper has been published in **IEEE Access** and is available at:  
+🔗 [https://ieeexplore.ieee.org/abstract/document/11014044/](https://ieeexplore.ieee.org/abstract/document/11014044/)
 
 ## Overview
 Bangladesh has made significant progress in improving literacy rates over the past few decades, but achieving universal literacy remains a challenging goal. This research explores the potential of **machine learning** and **hybrid modeling approaches** to forecast literacy development in Bangladesh, with a particular focus on projecting literacy rates by 2030. By leveraging socio-economic and demographic factors such as GDP, population, unemployment rate, and life expectancy, this study evaluates the performance of various predictive models to provide actionable insights for policy-driven decision-making.
